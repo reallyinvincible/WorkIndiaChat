@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#172f4d</color>
+    <color name="colorPrimaryDark">#15172b</color>
+    <color name="colorAccent">#ffd5d6</color>
+
+    <color name="colorModifyButton">#ffeb3b</color>
+
+    <color name="colorBackdrop">#eeeeee</color>
+
+    <color name="colorSuccessSnackbar">#39C79D</color>
+    <color name="colorErrorSnackbar">#D93B38</color>
+
+</resources>

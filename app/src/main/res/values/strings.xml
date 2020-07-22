@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WorkIndiaChat</string>
+
+    <string-array name="messages">
+        <item>✓ You: When is the new release coming up?</item>
+        <item>✓ You: I am having the time of my life.</item>
+        <item>Let us watch a movie</item>
+        <item>Did you see the match last night?</item>
+        <item>How was the game?</item>
+        <item>I hope everything gets better soon</item>
+        <item>Hahahaha! Was such a funny video</item>
+        <item>What do you have planned this weekend?</item>
+        <item>It went pretty good actually!</item>
+    </string-array>
+
+    <string-array name="name_female">
+        <item>Olivia</item>
+        <item>Ruby</item>
+        <item>Emily</item>
+        <item>Grace</item>
+        <item>Hannah</item>
+        <item>Ava</item>
+        <item>Lily</item>
+    </string-array>
+
+    <string-array name="name_male">
+        <item>Charlie</item>
+        <item>James</item>
+        <item>Thomas</item>
+        <item>Derek</item>
+        <item>Peter</item>
+        <item>Harold</item>
+        <item>Tony</item>
+    </string-array>
+
+</resources>
